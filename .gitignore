@@ -1,0 +1,51 @@
+# R and RStudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files
+*.rds
+*.RDS
+*.rda
+*.RDA
+GDCdata/
+tcga_data.rds
+demo_data.rds
+
+# Plots and outputs
+*.png
+*.pdf
+*.jpg
+*.jpeg
+
+# R package files
+*.tar.gz
+*.zip
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Claude Code folders
+.claude/
+claude/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
